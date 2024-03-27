@@ -1,0 +1,11 @@
+# Ignore VS Code specific settings
+.vscode/
+
+# Ignore Node.js specific files
+node_modules/
+
+# Ignore specific files and directories
+bot.js
+index.html
+package-lock.json
+package.json
